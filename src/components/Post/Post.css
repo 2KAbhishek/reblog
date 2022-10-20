@@ -1,0 +1,14 @@
+.post-container {
+    background: #ddd;
+    display: block;
+    flex-direction: column;
+    padding: 2px 40px;
+    margin: 0 2%;
+    text-align: center;
+    border-radius: 10px;
+}
+.image {
+    width: auto;
+    height: 240px;
+    border-radius: 10px;
+}
