@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background: #fff;
+}
+
+.post-container {
+    background: #eee;
+    flex-direction: column;
+    padding: 40px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
