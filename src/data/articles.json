@@ -1,18 +1,17 @@
-
 [
     {
-            "title": "Technology",
-            "body": "Technology is cool.",
-            "imgUrl": "https://source.unsplash.com/random/320x240/?tech"
-        },
-        {
-            "title": "Pros",
-            "body": "This is good",
-        "imgUrl": "https://source.unsplash.com/random/320x240/?benefit"
-        },
-        {
-            "title": "Cons",
-            "body": "This is bad",
-            "imgUrl": "https://source.unsplash.com/random/320x240/?cons"
-        }
+        "title": "Technology",
+        "description": "Technology is cool.",
+        "imgUrl": "https://source.unsplash.com/random/320x240/?tech"
+    },
+    {
+        "title": "Pros",
+        "description": "This is good",
+        "imgUrl": "https://source.unsplash.com/random/320x240/?good"
+    },
+    {
+        "title": "Cons",
+        "description": "This is bad asajsa ksj asja kjs aa sja ks",
+        "imgUrl": "https://source.unsplash.com/random/320x240/?bad"
+    }
 ]
