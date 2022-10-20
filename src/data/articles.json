@@ -1,17 +1,17 @@
 [
     {
-        "title": "Technology",
-        "description": "Technology is cool.",
+        "title": "New Blog",
+        "description": "and it's pros and cons",
+        "imgUrl": "https://source.unsplash.com/random/320x240/?writing"
+    },
+    {
+        "title": "Hacktoberfest",
+        "description": "and things I learned from it",
         "imgUrl": "https://source.unsplash.com/random/320x240/?tech"
     },
     {
-        "title": "Pros",
-        "description": "This is good",
-        "imgUrl": "https://source.unsplash.com/random/320x240/?good"
-    },
-    {
-        "title": "Cons",
-        "description": "This is bad asajsa ksj asja kjs aa sja ks",
-        "imgUrl": "https://source.unsplash.com/random/320x240/?bad"
+        "title": "Password Managers",
+        "description": "and why you should use them",
+        "imgUrl": "https://source.unsplash.com/random/320x240/?security"
     }
 ]
