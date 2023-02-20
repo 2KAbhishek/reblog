@@ -20,29 +20,23 @@
 <a href="https://github.com/2KAbhishek/reblog/pulse">
 <img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/reblog?style=flat&color=e06c75&label="> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
-
-<figure>
-  <img src= "images/screenshot.png" alt="reblog Demo">
-  <br/>
-  <figcaption>reblog screenshot</figcaption>
-</figure>
+<h3>Blog with twisted React ✏️🍭</h3>
 
 </div>
 
 ## What is this
 
-reblog is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+reblog is a blog created using react that serves plain html content
 
 ## Inspiration
 
-reblog was inspired by `<reason/idea>`.
+Wanted to try out a custom blog serving approach using publicly available content.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `npm`
 
 ## Getting reblog
 
@@ -51,51 +45,19 @@ To get reblog, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/reblog
 cd reblog
-<install_command>
+npm install
+npm start
 ```
 
-## Using reblog
-
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
-```
+Blog articles can be found in the `./public/articles/` directory.
 
 ## How it was built
 
-reblog was built using `<tech/library>`
-
-## Challenges faced
-
-While building reblog the main challenges were `<issue/difficulty>`
+reblog was built using `neovim, react`
 
 ## What I learned
 
-While building reblog I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+Playing around with React routing was fun.
 
 Hit the ⭐ button if you found this useful.
 
